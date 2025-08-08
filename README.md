@@ -103,4 +103,4 @@ Starting a business is hard — especially when you're unsure where to begin or 
 
 ## 🙏 Thank You!
 
-Have feedback or want to contribute? Reach out via GitHub or fork the project to experiment with your own ideas.
+
